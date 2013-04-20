@@ -1,0 +1,23 @@
+Uses heuristic of adding each value not in place to score, 10 deep memorized, nilson seq score added
+6,20
+Average extra expansions: 6.793966666666667
+Average extra steps: 0.4209333333333333
+time: 4765 ms
+map size: 181440
+
+7,20
+Average extra expansions: 6.711666666666667
+Average extra steps: 0.41546666666666665
+time: 4709 ms
+map size: 181440
+
+10,20
+Average extra expansions: 6.654366666666666
+Average extra steps: 0.4138
+time: 4419 ms
+
+15,15
+Average extra expansions: 59.46606666666667
+Average extra steps: 1.1551333333333333
+time: 9695 ms
+map size: 181440
